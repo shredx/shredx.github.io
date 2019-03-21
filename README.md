@@ -10,3 +10,4 @@ This repo hosts the webpage of this organisation at [http://shredx.work](http://
 ### Todos
 
 - Page to tack the projects
+- Page to explain what is ShredX
