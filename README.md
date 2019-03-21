@@ -1,6 +1,10 @@
-# About
+# ShredX Website
 
 This repo hosts the webpage of this organisation at [http://shredx.work](http://shredx.work)
+
+## About
+
+Go to [ShredX Intoduction](https://github.com/shredx/plans) to know more about what, how and why!
 
 ## Credits
 
@@ -9,5 +13,5 @@ This repo hosts the webpage of this organisation at [http://shredx.work](http://
 
 ### Todos
 
-- Page to tack the projects
-- Page to explain what is ShredX
+- [ ] Page to tack the projects
+- [ ] Page to explain what is ShredX
