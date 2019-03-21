@@ -1,6 +1,6 @@
 # About
 
-This repo hosts the webpage of this organisation at [http://shredx.work](http://shredx.work) [pending]
+This repo hosts the webpage of this organisation at [http://shredx.work](http://shredx.work)
 
 ## Credits
 
@@ -9,5 +9,4 @@ This repo hosts the webpage of this organisation at [http://shredx.work](http://
 
 ### Todos
 
-- CNAME for domain
-- Update site for `og-image`
+- Page to tack the projects
