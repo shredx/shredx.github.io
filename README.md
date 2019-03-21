@@ -1,6 +1,6 @@
 # About
 
-This repo hosts the webpage of this organisation at [http://sharedx.work](http://sharedx.work)
+This repo hosts the webpage of this organisation at [http://shredx.work](http://shredx.work) [pending]
 
 ## Credits
 
